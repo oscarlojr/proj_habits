@@ -1,4 +1,4 @@
-# API Pokedex
+# One Step Every Day
 <p align="center"> Projeto destinado a uma aplicação que realiza uma lista de tarefas para criação de hábitos. Atividade realizada na plataforma Rocketseat, programa NLW.
 </p>
 
